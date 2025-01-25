@@ -42,6 +42,12 @@ User Experience: Design focado em simplicidade e funcionalidade para o usuário.
 
 ## 📷 Projeto
 
+https://github.com/Guizigui/alcool_gasolina/blob/main/AppGasALc.png
+
+https://github.com/Guizigui/alcool_gasolina/blob/main/AppGasLc1.png
+
+
+
 
 
 
