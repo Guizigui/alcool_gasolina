@@ -47,6 +47,11 @@ User Experience: Design focado em simplicidade e funcionalidade para o usuário.
 
 
 
+![Image](https://github.com/user-attachments/assets/98047f1b-2a13-4cc5-944b-6baea8bde275)
+
+
+
+
 
 
 
